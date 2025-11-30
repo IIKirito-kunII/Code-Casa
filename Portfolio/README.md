@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-[Link to Live Project](https://codepen.io/Lavish-Kumar-Varshney/pen/yLdeeJZ)
+[Link to Live Project](https://iikirito-kunii.github.io/Portfolio-template/)
 
 This repository contains the code of my First responsive portfolio Template
 
